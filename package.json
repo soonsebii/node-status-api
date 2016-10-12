@@ -1,5 +1,5 @@
 {
-  "name": "simple-restful-api",
+  "name": "node-status-api",
   "version": "0.0.1",
   "main": "index.js",
   "description": "Lightweight RESTful API Server.",
@@ -13,7 +13,7 @@
     "name": "Soon-Sub, Kwon",
     "email": "soonsebii@gmail.com"
   },
-  "homepage": "https://github.com/soonsebii/simple-restful-api",
+  "homepage": "https://github.com/soonsebii/node-status-api",
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/soonsebii/simple-restful-api.git"
+    "url": "git://github.com/soonsebii/node-status-api.git"
   },
  "license": "MIT",
  "maintainers": [
