@@ -1,0 +1,34 @@
+{
+  "name": "simple-restful-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Lightweight RESTful API Server.",
+  "keywords": [
+    "api",
+    "http",
+    "rest",
+    "status"
+  ],
+  "author": {
+    "name": "Soon-Sub, Kwon",
+    "email": "soonsebii@gmail.com"
+  },
+  "homepage": "https://github.com/soonsebii/simple-restful-api",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soonsebii/simple-restful-api.git"
+  },
+ "license": "MIT",
+ "maintainers": [
+    {
+      "name": "soonsebii",
+      "email": "soonsebii@gmail.com"
+    }
+  ],
+  "directories": {}
+}
